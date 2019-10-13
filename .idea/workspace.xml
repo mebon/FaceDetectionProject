@@ -2,13 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5daf705-510a-4a27-a40a-9d458c854e31" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/FaceDetection/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/groupSelfie.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceDetection.py" beforeDir="false" afterPath="$PROJECT_DIR$/FaceDetection/FaceDetection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/gdg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/iee.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -18,7 +30,16 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Programlama\Github\FaceDetectionProject\images" />
+      <recent name="C:\Programlama\Github\FaceDetectionProject\FaceDetection" />
+      <recent name="C:\Programlama\Github\FaceDetectionProject" />
+      <recent name="C:\Programlama\Github\FaceDetectionProject\.vs" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -45,7 +66,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FaceDetection.py" />
+      <option name="SCRIPT_NAME" value="C:\Programlama\Github\FaceDetectionProject\FaceDetection\FaceDetection.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />

@@ -1,7 +1,7 @@
 import cv2
 
 face_cascade = cv2.CascadeClassifier('C:/Users/bekom/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/cv2/data/haarcascade_frontalface_default.xml')
-resimler = ['images/iee.jpg','images/gdg.jpg','/images/futbol.jpg','images/manzara.jpg']
+resimler = ['images/groupSelfie.jpg','images/futbol.jpg','images/manzara.jpg']
 
 for i in resimler:
 
