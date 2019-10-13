@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5daf705-510a-4a27-a40a-9d458c854e31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/FaceDetection/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/groupSelfie.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FaceDetection.py" beforeDir="false" afterPath="$PROJECT_DIR$/FaceDetection/FaceDetection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gdg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/iee.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceDetection/FaceDetection.py" beforeDir="false" afterPath="$PROJECT_DIR$/FaceDetection/FaceDetection.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
